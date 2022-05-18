@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Debby Ariyanti",
+    "nim": "20050974040",
+    "hobi": ["scroll tiktok", "jalan-jalan", "ngegame"],
+    "riwayat_pendidikan": {
+      "TK": "TK trisula 1",
+      "SD": "SDN kadipaten 2",
+      "SMP": "SMPN 5 Bojomegoro",
+      "SMA": "SMAN 3 Bojonegoro"
+    }
+  },
+  {
+    "nama": "Prita Dewi Paramita",
+    "nim": "20050974040",
+    "hobi": ["scroll tiktok", "jalan-jalan", "ngegame"],
+    "riwayat_pendidikan": {
+      "TK": "TK trisula 1",
+      "SD": "SDN kadipaten 2",
+      "SMP": "SMPN 5 Bojomegoro",
+      "SMA": "SMAN 3 Bojonegoro"
+    }
+  }
+]
